@@ -171,6 +171,10 @@ a:hover {
     width: 80vw;
     font-size: 5vw;
   }
+
+  #footer {
+    font-size: 3vw;
+  }
 }
 
 @media screen and (max-width: 600px) {
